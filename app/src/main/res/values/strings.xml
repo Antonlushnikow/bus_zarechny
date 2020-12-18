@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Автобусы Заречного</string>
+    <string name="butt_name1">НА СТАНЦИЮ</string>
+    <string name="butt_name2">СО СТАНЦИИ</string>
+    <string name="butt_name3">ИЗ ЗАРЕЧНОГО</string>
+    <string name="butt_name4">В ЗАРЕЧНЫЙ</string>
+    <string name="butt_name5">17</string>
+    <string name="butt_name6">18</string>
+    <string name="butt_name7">19</string>
+    <string name="butt_name8">21</string>
+    <string name="butt_name9">ИРМ</string>
+    <string name="butt_name10">126</string>
+    <string name="butt_name11">191</string>
+    <string name="butt_name12">108</string>
+    <string name="butt_name13">112</string>
+    <string name="butt_name14">ПО ГОРОДУ</string>
+    <string name="butt_name15">23</string>
+    <string name="butt_name16">24</string>
+    <string name="action_settings">О программе</string>
+    <string name="action_settings2">Выход</string>
+    <string name="action_settings3">На сегодня</string>
+    <string name="action_settings4">На будни</string>
+    <string name="action_settings5">На выходные</string>
+</resources>
